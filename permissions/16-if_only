@@ -1,2 +1,2 @@
 #!/bin/bash
-[ "$(stat -c %U hello)" = "vincent" ] sudo chown vincent hello
+if stat -c %U hello = "guillaume" then sudo chown vincent hello fi
