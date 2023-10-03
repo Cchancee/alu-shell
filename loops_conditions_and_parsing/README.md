@@ -1,2 +1,1 @@
-This is the greatest README of all the time
-
+This is the readme file for this directory
