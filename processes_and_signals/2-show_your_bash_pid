@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Displays a list of currently running process and extracts bash lines from it
+
+ps auxf | grep bash
